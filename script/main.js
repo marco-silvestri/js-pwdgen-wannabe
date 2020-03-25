@@ -22,7 +22,7 @@ usrColor = prompt("One last question: tell me your favourite color.");
 
 //4 Get the random number, integer between 1 to 99
 
-rndNumber = Math.floor(Math.random() * 10);
+rndNumber = Math.floor(Math.random() * 100);
 
 //5 Concatenate usrName usrSurname usrColor and rndNumber
 
